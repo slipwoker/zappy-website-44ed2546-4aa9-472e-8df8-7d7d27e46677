@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות הסקווישי המובילה בישראל! קניית סקווישי אונליין בישראל בקליק אחד — צעצועים רכים ומהנים לילדים, בני נוער ומבוגרים. משלוח מהיר לכל הארץ!
+
+### אודות
+https://example.com/about
+אנחנו ב-Omer Squishy מאמינים שכל לחיצה קטנה מביאה הקלה גדולה. גלה מי אנחנו, למה אנחנו אוהבים סקווישי ואיך אנו מביאים לך את הצעצועים הכי מגניבים בישראל.
+
+### גלריה
+https://example.com/gallery
+גלריית הסקווישי המלאה שלנו מחכה לך! צעצועי פידג&#39;ט סקווישי לבני נוער וילדים בצורות, צבעים וגדלים שלא ראית בחייך. מצא את הסקווישי שלך ותזמין עוד היום!
+
+### צור קשר
+https://example.com/contact
+יש שאלה? רוצה להזמין סקווישי נגד לחץ וחרדה או סתם לדבר על הצעצוע האהוב עליך? צוות Omer Squishy זמין לך עכשיו — צור קשר ונחזור אליך במהירות הבזק!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Omer Squishy
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Omer Squishy
+
+### Category
+https://example.com/category/:slug
+מוצרים - Omer Squishy
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
